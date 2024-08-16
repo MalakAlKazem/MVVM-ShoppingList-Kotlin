@@ -33,6 +33,7 @@
 
 ### Images of the App
 <div>
-<img src="Screenshot_20240815_213952.png" width="300"/>
-  <img src="Screenshot_20240816_155853.png" width="300"/>
+<img src="Screenshot_20240815_213952.png" width="200"/>
+&nbsp;&nbsp;&nbsp;
+  <img src="Screenshot_20240816_155853.png" width="200"/>
 </div>
